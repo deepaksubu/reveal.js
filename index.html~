@@ -94,7 +94,7 @@ element.click()
 <ul>
 <li>Full support for Webdriver backed Selenium</li>
 <li>No tests provided for pilot testing except Paul.</li>
-<li>Internet Explorer is not supported.</li>
+<li> Internet Explorer is not supported.</li>
 </section>
 <section>
 <h2> Potential Issues</h2>
